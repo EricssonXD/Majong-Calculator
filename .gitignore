@@ -1,0 +1,4 @@
+# Basic python venv gitginore
+venv/
+*.pyc
+```
