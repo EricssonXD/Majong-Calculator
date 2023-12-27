@@ -1,10 +1,10 @@
-import src.gameManager as gm
+from src.gameManager import GameManager
 
 def main():
     # Your code here
-    game = gm.GameManager()
+    game = GameManager()
+    game.printPlayers()
     game.run()
-    print("Hello world!")
 
 if __name__ == "__main__":
     main()

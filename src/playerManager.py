@@ -20,30 +20,3 @@ class Player:
 
     def printPieces(self):
         print(self.pieces)
-
-
-
-
-    
-
-
-
-    
-
-    # pieces["bamboo"] # 0
-
-
-
-
-
-
-player1 = Player("joe")
-
-player2 = Player("bob")
-print(PieceKeys.NORTH)
-
-player1.printPieces()
-# player3 = Player("jim")
-# player4 = Player("guy")
-
-# print(player1.pieces)
